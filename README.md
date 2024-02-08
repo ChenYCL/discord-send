@@ -15,7 +15,7 @@ README.md
 data
     discord.csv # discord账号
     ip.csv # 独立ip
-    channel_messages.json # 从频道中获取的聊天内容
+    channel_messages.json # 发送内容 单条
     fix_messages.txt # 固定聊天内容
     discord_info.json # 项目的一些discord信息
 ```
@@ -49,7 +49,7 @@ use_proxy = False
 # 钉钉机器人id
 dingding_id = 'xxxxx'
 ```
-discord_info.json
+channel_messages.json
 ```
   "babylon": [
     "!faucet 领水地址",  // 账号多少个就多少个
