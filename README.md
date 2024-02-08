@@ -22,7 +22,7 @@ data
 
 需要补齐的敏感数据文件
 
-discord.csv
+discord.csv，关键使用token登陆，如何获取discord token，请自行搜索
 你的discord账号.这个discord_token是需要程序获取的,会自动填充进来,可以留空
 ```
 discord_id|discord_create_email|discord_password|discord_username|discord_token
@@ -65,3 +65,6 @@ discord_info.json
 https://open.dingtalk.com/document/orgapp/custom-robot-access
 
 这个就是一个提醒功能.当别人@你让你回复时需要及时处理.所以加个提醒.
+
+# 效果
+<img width="639" alt="image" src="https://github.com/ChenYCL/discord-send/assets/25706676/5da07061-5051-4a1b-a6a7-3e7e00844cb9">
