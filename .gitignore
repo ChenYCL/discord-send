@@ -7,9 +7,14 @@ __pycache__/
 # 敏感数据
 data/discord.csv
 data/channel_messages.json
+deploy.js
+deploy.py
 
 # C extensions
 *.so
+package-lock.json
+package.json
+node_modules
 
 # Distribution / packaging
 .Python
