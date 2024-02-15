@@ -19,6 +19,9 @@ data
     fix_messages.txt # 固定聊天内容
     discord_info.json # 项目的一些discord信息
 ```
+参考结构：
+![Uploading image.png…]()
+
 
 需要补齐的敏感数据文件
 
@@ -51,8 +54,11 @@ dingding_id = 'xxxxx'
 ```
 channel_messages.json
 ```
+{
   "babylon": [
-    "!faucet 领水地址",  // 账号多少个就多少个
+    "!faucet 领水地址",
+    "!faucet 领水地址",
+     // 账号多少个就多少个
   ]
 }
 
@@ -105,4 +111,9 @@ DC密码和邮箱密码相同，也可使用邮箱和密码登录DC，在新的i
 
 
 # 效果
+注意先安装python相关依赖
+```
+python3 discord.py
+
+```
 <img width="639" alt="image" src="https://github.com/ChenYCL/discord-send/assets/25706676/5da07061-5051-4a1b-a6a7-3e7e00844cb9">
