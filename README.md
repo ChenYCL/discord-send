@@ -20,7 +20,8 @@ data
     discord_info.json # 项目的一些discord信息
 ```
 参考结构：
-![Uploading image.png…]()
+<img width="275" alt="image" src="https://github.com/ChenYCL/discord-send/assets/25706676/d163c9ba-9431-45cd-9815-546555139ecd">
+
 
 
 需要补齐的敏感数据文件
