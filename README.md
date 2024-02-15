@@ -26,15 +26,21 @@ data
 
 需要补齐的敏感数据文件
 
-discord.csv，关键使用token登陆，如何获取discord token，请自行搜索
+- discord.csv
+  
+关键使用token登陆，如何获取discord token，请自行搜索
 你的discord账号.这个discord_token是需要程序获取的,会自动填充进来,可以留空，id必须按照顺序1,2,3,4...
+### 小技巧：建议配合指纹浏览器手动获取token，长期使用
+<img width="1280" alt="image" src="https://github.com/ChenYCL/discord-send/assets/25706676/73fb0996-caa6-48aa-a092-f3ed6c91190e">
+
+
 ```
 discord_id|discord_create_email|discord_password|discord_username|discord_token
 1|xxxxx|xxxxx|xxxxx|xxxxx
 2|xxxxx|xxxxx|xxxxx|xxxxx
 ```
 
-ip.csv
+- ip.csv
 
 你的独立ip数据
 ```
@@ -43,7 +49,7 @@ xxxxx:xxxxx:xxxxx:xxxxx
 xxxxx:xxxxx:xxxxx:xxxxx
 ```
 
-config.py
+- config.py
 ```
 discord_file = './data/discord.csv'
 discord_fix_messages_file = './data/fix_messages.txt'
@@ -54,7 +60,7 @@ use_proxy = False
 # 钉钉机器人id
 dingding_id = 'xxxxx'
 ```
-channel_messages.json
+- channel_messages.json
 ```
 {
   "babylon": [
