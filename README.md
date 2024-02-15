@@ -27,10 +27,11 @@ data
 需要补齐的敏感数据文件
 
 discord.csv，关键使用token登陆，如何获取discord token，请自行搜索
-你的discord账号.这个discord_token是需要程序获取的,会自动填充进来,可以留空
+你的discord账号.这个discord_token是需要程序获取的,会自动填充进来,可以留空，id必须按照顺序1,2,3,4...
 ```
 discord_id|discord_create_email|discord_password|discord_username|discord_token
 1|xxxxx|xxxxx|xxxxx|xxxxx
+2|xxxxx|xxxxx|xxxxx|xxxxx
 ```
 
 ip.csv
