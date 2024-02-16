@@ -117,6 +117,10 @@ DC密码和邮箱密码相同，也可使用邮箱和密码登录DC，在新的i
 
 若有收获，就点个赞吧
 
+# 请我喝☕
+![IMG_3265](https://github.com/ChenYCL/discord-send/assets/25706676/ea44ff39-29c4-4446-88db-6eb5855e50a2)
+
+
 
 # 效果
 注意先安装python相关依赖
@@ -125,3 +129,5 @@ python3 discord.py
 
 ```
 <img width="639" alt="image" src="https://github.com/ChenYCL/discord-send/assets/25706676/5da07061-5051-4a1b-a6a7-3e7e00844cb9">
+
+
